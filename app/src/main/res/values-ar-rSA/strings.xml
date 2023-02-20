@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AbdullahAndroidLab_ver_01</string>
+    <string name="hello_message">مرحبا بالعالم</string>
+    <string name="button_message">أنا مفتاح</string>
+    <string name="type_your_password">ادخل كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+</resources>
